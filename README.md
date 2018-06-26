@@ -1,2 +1,7 @@
 # MERO_Infrastructure
 Location of infrastructure investment in Municipalities in the Western Cape
+Municipal Spatial Development Frameworks occasionally project unquantifiable future development forms which are independent of current and future infrastructure realities. Development Plans rarely take into account capital needs and deficits, current and future capital expenditure, and expected socio-economic growth. It is necessary to achieve a greater understanding of land and infrastructure realities, in order to influence better capital expenditure and spatial development, and to ultimately achieve socio-economic prosperity and sustainable settlements. DEA&DP intends to investigate the following:
+The socio-economic and demographic profile of Municipalities to understand the short - and long term infrastructure and service delivery need.
+Infrastructure supply and demand, based on best practice norms and standards, in order to gain an understanding of infrastructure deficits and challenges.
+Infrastructure capital and operational expenditure and how it relates to infrastructure needs, deficits and challenges and projected future urban growth (In SDF’s, GPS). This will inform infrastructure needs/gaps.
+As a second phase, DEA&DP intends to analyse asset lifecycles to inform better decisions on infrastructure maintenance and replacement, thereby focusing capital expenditure and going a long way to assisting financial sustainability in Municipalities.
